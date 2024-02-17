@@ -2,7 +2,7 @@
 - 👀 I’m interested in Digital VLSI
 - 🌱 
 - 💞️ I’m looking to collaborate on Projects in the domain of Digital VLSI.
-- 📫 How to reach me : Email: zakirhussaingit189@gmail.com
+- 📫 How to reach me : Email: zakir.hussain.work@gmail.com ; Mobile: 9949426362
 - 😄 Pronouns: him/his
 - ⚡ 
 - For Absolute beginner of Verilog HDL please visit https://www.youtube.com/@veriloghdl
